@@ -1,6 +1,0 @@
-@AnomalyDetectionDashboard_HostAddress = http://localhost:5192
-
-GET {{AnomalyDetectionDashboard_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
